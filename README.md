@@ -52,5 +52,7 @@ result = value1*value2
 print("Product of two arrays is:", result)
 
 ## OUTPUT:
+![output](https://github.com/Shaik-sameer-AIML/Multiplying-two-matrix/blob/main/multiple.JPG?raw=true)
 
 ## RESULT:
+Hence the numpy module is imported and the programme is succefuuly executed to find the product of two matrices.
