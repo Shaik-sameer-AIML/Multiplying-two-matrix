@@ -1,18 +1,21 @@
-# Multiplying-two-matrix
+#Developed By:shaik sameer
+#Ref no : 21003881
+import numpy as np
 
-## AIM:
+m1,m2 =[],[]
 
-## ALGORITHM:
+n = int(input())
 
-### Step 1:
-### Step 2:
-### Step 3:
-### Step 4:
-### Step 5:
+for i in range(n):
 
-## PROGRAM: 
+     m1.append(int (input()))
 
-## OUTPUT:
+for i in range(n):
+     m2.append(int (input()))
+value1=np.array(m1)
+value2= np.array(m2)
 
-## RESULT:
+result = value1*value2
 
+
+print("Product of two arrays is:", result)
