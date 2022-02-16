@@ -1,6 +1,5 @@
-Multiplying-two-matrix
-
 ## AIM:
+Multiplying-two-matrix
 
 ### ALGORITHM:
 
